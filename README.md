@@ -1,5 +1,6 @@
 #Commands 
 
+
 git init // Konfigürasyon dosyalarını oluşturup klasörü bir git dosyası haline getirmek için
 
 git add * 						// Bulunan klasördeki tüm dosyaları ekle
@@ -11,7 +12,3 @@ git remote add origin https://github.com/ahmetkaygisiz/tutorial_git.git // remot
 
 git push -u origin master // değişiklikleri remote repoya gönder 
 
---
-burada_hata_yaptık
-bu satırlar geri alınacak.
---
