@@ -12,3 +12,5 @@ git remote add origin https://github.com/ahmetkaygisiz/tutorial_git.git // remot
 
 git push -u origin master // değişiklikleri remote repoya gönder 
 
+git log --oneline // Yapılan değişiklik listesi ve ID'ler
+
