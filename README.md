@@ -26,5 +26,4 @@ git checkout <commit_id> // Daha önce yapılan bir commit'e geri dönmek için 
 
 git branch <branch_name> <commit_id> // Yapılan değişiklikler ile yeni bir branch oluştur.
 
-
-conflict oluştur.
+grep -lr '<<<<<<<' . | xargs git checkout --ours //  
